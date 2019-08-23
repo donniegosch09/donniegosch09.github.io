@@ -21,7 +21,6 @@
 <a href="page2.html" target="_self">Link to page2</a>
 </p>
 
-<img src="testpic.png" alt="This is a test image" height="64" width="84">
 
 <ol>
 <li>An item </li>
