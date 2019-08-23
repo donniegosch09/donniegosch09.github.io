@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html>
 
@@ -8,14 +12,15 @@
 <meta name="autho" content="Conor Sheils">
 </header>
 
-<h1>Welcome</h1>
+<h1>Welcome Christine!!</h1>
 
-<p>welcome to <em>my</em> brand new website. this site will be my <strong>new<strong> home on the web.</p>
-<a href="https://blogging.com/how-to-start-a-blog/">Click here to learn more! </a>
+<p>welcome to <em>MY</em> brand new website. This site will be my <strong>new<strong> home or something.</p>
+<a href="http://www.christinegosch.com/"> Click here for cool stuff! </a>
 
 <p>
 
-<a href="http://www.google.com">Google</a>
+<h2> Or here for other cool stuff!
+<a href="https://www.google.com/search?q=unicorns&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiVrc3i15nkAhUNWa0KHRkEC88Q_AUIESgB&biw=1475&bih=788">cool stuff</a>
 
 <p>
 <a href="page2.html" target="_self">Link to page2</a>
@@ -23,7 +28,7 @@
 
 
 <ol>
-<li>An item </li>
+<li>The rest is just practice stuff </li>
 </ol>
 
 <ul>
@@ -72,6 +77,15 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
 
 
 
