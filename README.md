@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html>
 
@@ -31,12 +27,13 @@
 <li>The rest is just practice stuff </li>
 </ol>
 
+<p>
 <ul>
 <li>This is </li>
 <li>an unordered </li>
 <li>List </li>
 </ul>
-
+</p>
 
 <dl>
 <dt>Item</dt>
@@ -77,6 +74,20 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
